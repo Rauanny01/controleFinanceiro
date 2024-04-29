@@ -1,0 +1,21 @@
+{
+    "transaction": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento Plataforma Anula Multa",
+            "type": "income",
+            "category": "Venda",
+            "price": 15000,
+            "createdAt": "2024-04-26T17:50:06.642Z"
+        },
+        {
+            "id": 2,
+            "description": "Docinho",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": -27.50,
+            "createdAt": "2024-04-18T17:50:06.642Z"
+        }
+
+    ]
+}
